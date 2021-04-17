@@ -10,7 +10,7 @@ body {
   width: 30rem;
 }
 
-@media ( max-width : 600px ) {
+@media( max-width : 600px ) {
 
   .card-game {
     display: flexbox;
