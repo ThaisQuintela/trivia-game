@@ -56,8 +56,7 @@ class Feedback extends Component {
       <section>
         <Header />
         <h1 data-testid="feedback-text">
-          { assertions >= THREE_ASSERTIONS
-            ? 'Mandou bem! ' : 'Podia ser melhor...' }
+          { assertions >= THREE_ASSERTIONS ? 'Mandou bem! ' : 'Podia ser melhor...' }
         </h1>
         <p>
           {'Um total de '}

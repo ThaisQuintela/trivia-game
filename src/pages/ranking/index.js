@@ -14,14 +14,9 @@ class Ranking extends React.Component {
       return null;
     } const ranking = this.getRanking().sort((a, b) => b.score - a.score);
 
-    // const reducedRanking = ranking.reduce((acc, cur) => {
-    //   if (!acc.some((item) => item.picture === cur.picture)) acc.push(cur);
-    //   return acc;
-    // }, []);
-
     return (
       <section>
-        <h3 data-testid="ranking-title">Ranking</h3>
+        <h3 data-testid="ranking-title ">Ranking</h3>
         {ranking.map((player, index) => (
           <p key={ index }>
             <span data-testid={ `player-name-${index}` }>{player.name}</span>

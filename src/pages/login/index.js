@@ -8,7 +8,7 @@ export default class login extends Component {
   render() {
     return (
       <div className="login">
-        <img src={ logo } className="App-logo" alt="logo" />
+        <img src={ logo } className="App-logo" alt="logo trivia" />
         <h1 className="group-name">TWENTY-FIVE</h1>
         <LoginForm />
         <Link to="/settings" className="login-btn" data-testid="btn-settings">

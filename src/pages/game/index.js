@@ -6,7 +6,7 @@ import './styles.css';
 export default class index extends Component {
   render() {
     return (
-      <div className="card-game">
+      <div className="card-game ">
         <Header />
         <Quiz />
       </div>
