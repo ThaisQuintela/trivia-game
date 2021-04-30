@@ -14,6 +14,9 @@ export default class login extends Component {
         <Link to="/settings" className="login-btn" data-testid="btn-settings">
           Settings
         </Link>
+        <a href="http://www.freepik.com" className="background">
+          Background image designed by vectorpouch | Freepik
+        </a>
       </div>
     );
   }

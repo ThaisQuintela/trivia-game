@@ -73,3 +73,12 @@ body {
   position: absolute;
   text-decoration: none;
 }
+
+.background {
+  bottom: 1rem;
+  color: rgba(255, 255, 255, 0.8);
+  font-size: small;
+  right: 1rem;
+  position: absolute;
+  text-decoration: none;
+}
