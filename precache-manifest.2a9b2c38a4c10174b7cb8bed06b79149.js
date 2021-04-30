@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab96157e8c4a6ef669847529d659dded",
+    "revision": "c3b809a60183f8e589d6317dc52e7c88",
     "url": "/trivia-game/index.html"
   },
   {
-    "revision": "cc4391c1e6858a2a1bc5",
-    "url": "/trivia-game/static/css/main.5b4e067b.chunk.css"
+    "revision": "93566911292203457d61",
+    "url": "/trivia-game/static/css/main.4157624d.chunk.css"
   },
   {
     "revision": "f04354a5ede2d6a5a242",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/trivia-game/static/js/2.3c3d2ebc.chunk.js.LICENSE"
   },
   {
-    "revision": "cc4391c1e6858a2a1bc5",
-    "url": "/trivia-game/static/js/main.ffb53e89.chunk.js"
+    "revision": "93566911292203457d61",
+    "url": "/trivia-game/static/js/main.a4703a7c.chunk.js"
   },
   {
     "revision": "28c450d90070e1cbeaea",
